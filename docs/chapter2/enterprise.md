@@ -305,7 +305,7 @@ a "Native Application" and give it permissions to the web application:
 
 * Enter a name for the app registration, and select **NATIVE CLIENT APPLICATION**.
 * Click on the Next arrow.
-* Enter a valid URI - it can be anything, but it has to be valid
+* Enter a valid URI - it can be anything, but it has to be a valid URI format
 
   ![Azure AD Apps - Native App Redirect URI][img35]
 
